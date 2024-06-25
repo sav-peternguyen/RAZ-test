@@ -23,7 +23,7 @@ DB_HOST="MYSQL_HOST"
 JWT_SECRET="JSONWEBTOKEN_SECRET_KEY"
 ```
 
-Config migrate (config/config.json)
+Config sequelize-cli (config/config.json)
 
 ```sh
 "username": "MYSQL_USERNAME",
@@ -32,6 +32,14 @@ Config migrate (config/config.json)
 "host": "MYSQL_HOST",
 "dialect": "mysql"
 ```
+
+Init data example
+
+```sh
+npm run db:seed
+```
+
+Data example in seeders/
 
 ## Development
 Run app:
