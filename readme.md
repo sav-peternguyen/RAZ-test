@@ -7,7 +7,7 @@ App requires
  - [Mysql](https://www.mysql.com/) 
 
 
-Install the dependencies start the server.
+Install the dependencies & devDependencies start the server.
 
 ```sh
 npm i

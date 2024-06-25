@@ -22,5 +22,8 @@
     "Savvycom"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
+  }
 }
