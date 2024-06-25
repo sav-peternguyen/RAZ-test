@@ -6,6 +6,8 @@ App requires
  - [Node.js](https://nodejs.org/)
  - [Mysql](https://www.mysql.com/) 
 
+Main folder: src
+Folder of sequelize CLI: config, models, seeders, migrations
 
 Install the dependencies & devDependencies start the server.
 
